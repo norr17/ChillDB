@@ -1,5 +1,10 @@
 {
-  "KOJO_VIP_1M_ABCXYZ123456": 20260515,
-  "KOJO_VIP_3M_ABCXYZ123456": 20260720,
-  "KEY_TEST_CUA_TOI": 20300101
+  "KOJO_1M_ABCXYZ123": {
+    "expiry": 20260515,
+    "hwid": ""
+  },
+  "KOJO_3M_ABCXYZ789": {
+    "expiry": 20260720,
+    "hwid": ""
+  }
 }
