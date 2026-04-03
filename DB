@@ -1,10 +1,12 @@
 {
   "KOJO_1M_ABCXYZ123": {
     "expiry": 20260515,
-    "hwid": ""
+    "hwid": "0107C24D-98FD-4D66-9E98-9F6C70B3190F
+"
   },
   "KOJO_3M_ABCXYZ789": {
     "expiry": 20260720,
-    "hwid": ""
+    "hwid": "0107C24D-98FD-4D66-9E98-9F6C70B3190F
+"
   }
 }
